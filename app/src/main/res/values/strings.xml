@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Radius</string>
+    <string name="property_type">Property Type</string>
+    <string name="number_of_rooms">Number of Rooms</string>
+    <string name="other_facilities">Other facilities</string>
+    <string name="radius">Radius</string>
+    <string name="select">Select</string>
+</resources>
